@@ -10,4 +10,4 @@ Video Object Tracker is a robust and efficient tool for tracking objects in vide
 
 **4.** **Bounding Box Visualization:** Draws bounding boxes around tracked objects for clear visualization.
 
-**5.****Configurable Parameters:** Allows customization of tracking parameters to enhance accuracy and performance.
+**5.** **Configurable Parameters:** Allows customization of tracking parameters to enhance accuracy and performance.
